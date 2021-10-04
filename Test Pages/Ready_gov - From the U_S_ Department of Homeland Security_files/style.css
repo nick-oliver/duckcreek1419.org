@@ -1,0 +1,99 @@
+.connav {
+	FONT-SIZE: x-small; COLOR: #000066; LINE-HEIGHT: 1.4em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.connavdiv {
+	FONT-SIZE: x-small; COLOR: #000066; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.contnt {
+	FONT-SIZE: x-small; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.contntlnk {
+	FONT-SIZE: x-small; COLOR: #000066; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.contntb {
+	FONT-SIZE: x-small; COLOR: #000066; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.contntc {
+	FONT-SIZE: x-small; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.date {
+	FONT-SIZE: xx-small; VERTICAL-ALIGN: middle; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.field {
+	FONT-SIZE: x-small; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.fielderr {
+	FONT-SIZE: x-small; COLOR: #cc0000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.ftr {
+	FONT-SIZE: xx-small; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.gray {
+	FONT-SIZE: x-small; COLOR: #666666; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; MARGIN: 0.1em; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.hdrko {
+	FONT-WEIGHT: bold; FONT-SIZE: medium; COLOR: #ffffff; LINE-HEIGHT: 1em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.hdrlnk {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+LI {
+	PADDING-BOTTOM: 5px
+}
+.nav {
+	FONT-SIZE: x-small; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.nava {
+	FONT-SIZE: xx-small; VERTICAL-ALIGN: middle; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.navaon {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; VERTICAL-ALIGN: middle; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.navftr {
+	FONT-SIZE: xx-small; VERTICAL-ALIGN: middle; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.navftron {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; VERTICAL-ALIGN: middle; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.navhdr {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.navhdron {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; COLOR: #99ccff; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.navon {
+	FONT-SIZE: x-small; COLOR: #5986b2; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+OL.contentlist {
+	FONT-SIZE: x-small; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; LIST-STYLE-TYPE: decimal; TEXT-DECORATION: none
+}
+P {
+	MARGIN: 0.1em
+}
+P.contnt {
+	FONT-SIZE: x-small; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+P.rescon {
+	FONT-SIZE: xx-small; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.rescon {
+	FONT-SIZE: xx-small; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.reshdr {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; COLOR: #ffffff; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.reshdr2 {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.reslnk {
+	FONT-SIZE: xx-small; COLOR: #000066; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+UL.contentlist {
+	FONT-SIZE: x-small; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; LIST-STYLE-TYPE: square; TEXT-DECORATION: none
+}
+UL.contentsublist {
+	FONT-SIZE: x-small; COLOR: #000000; LINE-HEIGHT: 1.2em; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; LIST-STYLE-TYPE: circle; TEXT-DECORATION: none
+}

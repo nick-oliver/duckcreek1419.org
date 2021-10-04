@@ -1,0 +1,180 @@
+BODY {
+	FONT-WEIGHT: normal; FONT-SIZE: 15px; COLOR: #003366; FONT-STYLE: normal; FONT-FAMILY: "Times New Roman", Times, serif
+}
+INPUT {
+	FONT-SIZE: 13px; HEIGHT: 20px
+}
+.search {
+	MARGIN-TOP: 0px; FONT-SIZE: 13px; COLOR: #ffffff; PADDING-TOP: 5px
+}
+.themenav {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ffffff; LINE-HEIGHT: 16px
+}
+A.themenav {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.themenav:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.themenav:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.themenav:hover {
+	COLOR: #cccccc; TEXT-DECORATION: underline
+}
+.themenavCurrent {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #cccccc; LINE-HEIGHT: 16px
+}
+.themenavCurrent A {
+	COLOR: #cccccc; TEXT-DECORATION: none
+}
+.themenavCurrent A:hover {
+	COLOR: #cccccc; TEXT-DECORATION: underline
+}
+.homepagebody {
+	PADDING-RIGHT: 20px; MARGIN-TOP: 10px; PADDING-LEFT: 20px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 1; PADDING-TOP: 0px
+}
+UL.hpnews {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 0px; COLOR: #ffffff; PADDING-TOP: 10px
+}
+LI.hpnews {
+	LIST-STYLE-POSITION: outside; FONT-SIZE: 13px; LIST-STYLE-IMAGE: url(images/starbullet.gif); PADDING-BOTTOM: 5px; COLOR: #ffffff; PADDING-TOP: 5px
+}
+A.hpnewslink {
+	FONT-SIZE: 13px; COLOR: #ffffff; LINE-HEIGHT: 1; TEXT-DECORATION: none
+}
+A.hpnewslink:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.hpnewslink:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.hpnewslink:hover {
+	COLOR: #cccccc; TEXT-DECORATION: underline
+}
+.footer {
+	FONT-SIZE: 13px; COLOR: #ffffff; PADDING-TOP: 3px; TEXT-DECORATION: none
+}
+.footernav {
+	FONT-SIZE: 13px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.footernav {
+	FONT-SIZE: 13px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.footernav {
+	FONT-SIZE: 13px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.footernav:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.footernav:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.footernav:hover {
+	COLOR: #cccccc; TEXT-DECORATION: underline
+}
+.copyright {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; MARGIN: 3px; COLOR: #336699
+}
+.currentTheme {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #cc3300; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.currentTheme A {
+	COLOR: #cc3300; TEXT-DECORATION: none
+}
+.currentTheme A:hover {
+	COLOR: #cc3300; TEXT-DECORATION: underline
+}
+A.subThemeOn {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #cc3300; FONT-FAMILY: "Times New Roman", Times, serif; TEXT-DECORATION: none
+}
+A.subThemeOn:link {
+	COLOR: #cc3300; TEXT-DECORATION: none
+}
+A.subThemeOn:visited {
+	COLOR: #cc3300; TEXT-DECORATION: none
+}
+A.subThemeOn:hover {
+	COLOR: #cc3300; TEXT-DECORATION: underline
+}
+A.subThemeOff {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #003366; FONT-FAMILY: "Times New Roman", Times, serif; TEXT-DECORATION: none
+}
+A.subThemeOff:link {
+	COLOR: #003366; TEXT-DECORATION: none
+}
+A.subThemeOff:visited {
+	COLOR: #003366; TEXT-DECORATION: none
+}
+A.subThemeOff:hover {
+	COLOR: #003366; TEXT-DECORATION: underline
+}
+A.subSubThemeOn {
+	FONT-SIZE: 13px; COLOR: #cc3300; FONT-FAMILY: "Times New Roman", Times, serif; TEXT-DECORATION: none
+}
+A.subSubThemeOn:link {
+	COLOR: #cc3300; TEXT-DECORATION: none
+}
+A.subSubThemeOn:visited {
+	COLOR: #cc3300; TEXT-DECORATION: none
+}
+A.subSubThemeOn:hover {
+	COLOR: #cc3300; TEXT-DECORATION: underline
+}
+A.subSubThemeOff {
+	FONT-SIZE: 13px; COLOR: #003366; FONT-FAMILY: "Times New Roman", Times, serif; TEXT-DECORATION: none
+}
+A.subSubThemeOff:link {
+	COLOR: #003366; TEXT-DECORATION: none
+}
+A.subSubThemeOff:visited {
+	COLOR: #003366; TEXT-DECORATION: none
+}
+A.subSubThemeOff:hover {
+	COLOR: #003366; TEXT-DECORATION: underline
+}
+.latestNews {
+	FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.latestNews A {
+	COLOR: #0000ff
+}
+.latestNews A:visited {
+	COLOR: #0000ff
+}
+.latestNews A:link {
+	COLOR: #0000ff
+}
+.latestNews A:hover {
+	COLOR: #0000ff
+}
+.paginationText {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.paginationText A {
+	FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.paginationText A:hover {
+	COLOR: #999999
+}
+.paginationText A:visited {
+	COLOR: #003366
+}
+.paginationText A:link {
+	COLOR: #003366
+}
+.breadCrumb {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.breadCrumb A {
+	FONT-SIZE: 12px; COLOR: #003366; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.breadCrumb A:hover {
+	COLOR: #999999
+}
+.breadCrumb A:visited {
+	COLOR: #003366
+}
+.breadCrumb A:link {
+	COLOR: #003366
+}

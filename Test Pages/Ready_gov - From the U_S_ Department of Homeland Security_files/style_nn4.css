@@ -1,0 +1,99 @@
+.connav {
+	FONT-SIZE: 12px; COLOR: #000066; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.connavdiv {
+	FONT-SIZE: 12px; COLOR: #000066; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.contnt {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.contntlnk {
+	FONT-SIZE: 12px; COLOR: #000066; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.contntb {
+	FONT-SIZE: 12px; COLOR: #000066; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.contntc {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.date {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.field {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.fielderr {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.ftr {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 12px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.gray {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN: 1px; COLOR: #000000; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.hdrko {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ffffff; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.hdrlnk {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+LI {
+	PADDING-BOTTOM: 1px
+}
+.nav {
+	FONT-SIZE: 12px; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.nava {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: middle; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.navaon {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; VERTICAL-ALIGN: middle; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.navftr {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: middle; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.navftron {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; VERTICAL-ALIGN: middle; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.navhdr {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000066; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.navhdron {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #99ccff; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.navon {
+	FONT-SIZE: 12px; COLOR: #5986b2; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+OL.contentlist {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+P {
+	MARGIN: 1px
+}
+P.contnt {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+P.rescon {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 13px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.rescon {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 13px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.reshdr {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.reshdr2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.reslnk {
+	FONT-SIZE: 11px; COLOR: #000066; LINE-HEIGHT: 13px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: underline
+}
+UL.contentlist {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+UL.contentsublist {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-DECORATION: none
+}
